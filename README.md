@@ -1,5 +1,5 @@
-- Hi, I’m @jiwoonoh, a junior @ Johns Hopkins studying BME & CS.
-- I’m interested in predictive personalized medicine, especially for early diagnosis of neurodegenerative/cardiological diseases or cancer.
+- Hi, I’m @jiwoonoh, a senior @ Johns Hopkins studying BME & CS.
+- I’m very interested in building predictive models using multimodal data (e.g. EHR, imaging, waveform, etc.) for diagnosis and prognostics of various diseases for individual patients.
 - I’m looking to collaborate on any projects regarding my interest!
 - Reach out to me on LinkedIn: https://www.linkedin.com/in/jiwoonoh/
 
